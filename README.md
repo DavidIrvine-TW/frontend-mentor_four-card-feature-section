@@ -9,8 +9,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/DavidIrvine-TW/frontend-mentor_four-card-feature-section)
+- Live Site URL: [live site](https://davidirvine-tw.github.io/frontend-mentor_four-card-feature-section/)
 
 ## My process
 
@@ -24,5 +24,5 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [@david irvine](https://github.com/DavidIrvine-TW)
+- Frontend Mentor - [@david irvine](https://www.frontendmentor.io/profile/DavidIrvine-TW)
